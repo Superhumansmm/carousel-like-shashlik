@@ -1,0 +1,5 @@
+interface:
+  display_name: "Создание карусели как с шашлыками"
+  short_description: "Карусели через бытовой конфликт и бизнес-механизм"
+  brand_color: "#E8FF00"
+  default_prompt: "Используй $carousel-like-shashlik, чтобы разработать Instagram-карусель от идеи до готовых слайдов."
